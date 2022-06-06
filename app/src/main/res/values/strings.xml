@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BMT-342</string>
+    <string name="start_game">Baslat</string>
+    <string name="single_word">KELIME</string>
+    <string name="single_word_title">Kelime</string>
+    <string name="paragraph">PARAGRAF</string>
+    <string name="zero">00:00</string>
+    <string name="correct_letter">Dogru Harf Sayisi :</string>
+    <string name="correct_word">Dogru Kelime Sayisi:</string>
+    <string name="typing_speed">Skor: </string>
+    <string name="nickname">Kullanici: </string>
+    <string name="OK">OK</string>
+    <string name="player">Kullanici :</string>
+    <string name="score">SKOR :</string>
+    <string name="high_score">SKOR TABLOSU</string>
+    <string name="high_score_title">Skor Tablosu</string>
+    <string name="correct_letter_count">Dogru Harf Sayisi : </string>
+    <string name="typing_test">BMT-342</string>
+    <string name="current_user">Kullanici :</string>
+</resources>
